@@ -1,0 +1,12 @@
+body{
+    font-family: 'Times New Roman';
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Times New Roman';
+    font-weight: lighter;
+    font-style: lighter;
+    color: #0E0210;
+}
